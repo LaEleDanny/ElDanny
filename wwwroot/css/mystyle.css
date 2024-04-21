@@ -1,0 +1,120 @@
+body {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    min-height: 100svh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(85, 107, 47, 0.418);
+    background-image: url(../images/proyector.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* margin-top: 70%;
+    margin-bottom: 70%; */
+}
+
+.wrapper {
+    width: 470px;
+    background-color: rgba(97, 0, 0, 0.678);
+    box-shadow: 0 0 20px black;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 20px 40px;
+    backdrop-filter: blur(4px);
+    align-items: center;
+    margin-left: -195%;
+}
+
+.wrapper h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.wrapper .input-box {
+    position: relative;
+    width: 100%;
+    height: 35px;
+    margin: 30px 0;
+}
+
+.input-box input {
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border:none;
+    outline: none;
+    border: 2px solid rgba(255, 0, 0, 0.2);
+    border-radius: 40px;
+    font-size: 15px;
+    color: aliceblue;
+    padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder {
+    color: aliceblue;
+}
+
+.input-box i {
+    position: absolute;
+    right: 20px;
+    top: 20%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+
+.wrapper .recordar {
+     display: flex;
+     justify-content: space-between;
+     font-size: 14.5px;
+     margin: -15px 0 15px;
+}
+
+.recordar label input {
+    accent-color: #fff;
+    margin-right: 3px;
+}
+
+.recordar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.recordar a:hover {
+    text-decoration: underline;
+}
+
+.wrapper .btn {
+    width: 100%;
+    height: 45px;
+    background: #2e0000;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.wrapper .enlace {
+    font-size: 14.5px;
+    text-align: center;
+    margin: 20px 0 15px;
+}
+
+.enlace p a {
+    color: #0400ff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.enlace p a:hover {
+    text-decoration: underline;
+}
+
+.container {
+     max-width: 120px;
+     margin: 0 auto;
+}

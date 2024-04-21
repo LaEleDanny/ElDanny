@@ -1,0 +1,30 @@
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\appsettings.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\dotnet pagina.staticwebassets.runtime.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\dotnet pagina.exe
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\dotnet pagina.deps.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\dotnet pagina.runtimeconfig.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\dotnet pagina.dll
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\bin\Debug\net8.0\dotnet pagina.pdb
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.AssemblyInfoInputs.cache
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.AssemblyInfo.cs
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.RazorAssemblyInfo.cache
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.RazorAssemblyInfo.cs
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets\msbuild.dotnet pagina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets\msbuild.build.dotnet pagina.props
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.dotnet pagina.props
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.dotnet pagina.props
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\scopedcss\bundle\dotnet pagina.styles.css
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\scopedcss\projectbundle\dotnet pagina.bundle.scp.css
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.dll
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\refint\dotnet pagina.dll
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.pdb
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\dotnet pagina.genruntimeconfig.cache
+C:\Users\Danny\Downloads\Modulo 1\dotnet pagina\obj\Debug\net8.0\ref\dotnet pagina.dll
